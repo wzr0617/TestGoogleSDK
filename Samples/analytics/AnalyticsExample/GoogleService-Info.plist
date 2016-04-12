@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>TRACKING_ID</key>
-	<string>UA-76256688-1</string>
+	<string>UA-76256688-2</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.google.samples.quickstart.AnalyticsExample</string>
+	<string>com.wzr.GoogleAnalyticsSample</string>
 	<key>IS_ADS_ENABLED</key>
 	<false/>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -19,8 +19,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<false/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:1017744858653:ios:2faf13965ff7b485</string>
+	<string>1:626667249533:ios:9db9c987161a22e9</string>
 	<key>PROJECT_ID</key>
-	<string>default-demo-app-e93d5</string>
+	<string>first-custom-app</string>
 </dict>
 </plist>
